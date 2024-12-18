@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\ERNI.Infrastructure\ERNI.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\src\ERNI.Infrastructure\ERNI.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>
